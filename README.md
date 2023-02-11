@@ -1,2 +1,2 @@
 # MulGT
-The official code will come soon!
+The complete official code will come soon!
