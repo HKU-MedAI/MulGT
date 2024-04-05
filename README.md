@@ -27,7 +27,7 @@ The implementation of `MulGT` model is in  `./models/MulGT`. To run the experime
     $ python main.py
 ```
 Hyper-parameters and data path can be customized in `option.py`.
-
+For detailed tutorial, please visit [here](https://github.com/HKU-MedAI/HIGT/blob/main/tutorials/tut_MulGT.ipynb).
 
 ## Citation
 If you use the code or results in your research, please use the following BibTeX entry.
